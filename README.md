@@ -1,9 +1,14 @@
 # 📚 3E-etec-cronogramaescolar
 
 ## Nome dos Integrantes
-1 - 
-2 - 
-3 - 
+1 - Milena
+2 - Talita
+3 - Ebert
+
+## Contatos
+- e1280057@edu.mt.gov.br (Milena Bispo)
+- e2461095@edu.mt.gov.br (Talita Gonçalves)
+- e2297501@edu.mt.gov.br (Ebert)
 
 ## Sobre o projeto
 Este projeto consiste em um painel digital desenvolvido para organizar o cronograma escolar, incluindo horários de aulas e eventos importantes os alunos.
@@ -53,8 +58,4 @@ Criar uma ferramenta simples e eficiente para auxiliar na organização do dia a
 Nome: [Elton Marcelino  
 Email: [elton_marcelino@outlook.com]
 
----
-
-## Desenvolvido por
-Alunos: Milena Bispo, Ebert Torquato e Talita Almeida
 
