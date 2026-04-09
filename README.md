@@ -35,10 +35,16 @@ O objetivo é facilitar a visualização da rotina escolar, ajudando alunos e pr
 
 
 ## Funcionalidades
--  Visualização do cronograma de aulas
--  Organização por horários
--  Exibição de eventos escolares
--  Melhor controle da rotina acadêmica
+Organização e visual
+Calendário mensal interativo
+Modo semanal/diário (tipo agenda)
+Cores diferentes por matéria
+Filtro por disciplina ou professor
+Controle de tempo
+Alertas/lembretes de aula
+Contagem regressiva para próxima aula
+Notificação de eventos importantes
+Horário atual destacado automaticamente
 
 ---
 
@@ -50,7 +56,7 @@ O objetivo é facilitar a visualização da rotina escolar, ajudando alunos e pr
 ---
 
 ##  Objetivo
-Criar uma ferramenta simples e eficiente para auxiliar na organização do dia a dia escolar, tornando a gestão de horários mais clara e acessível.
+Desenvolver um painel digital intuitivo e funcional que organize o cronograma escolar, permitindo o gerenciamento eficiente de aulas, horários e eventos, com o objetivo de otimizar a rotina acadêmica e melhorar a produtividade de alunos e professores.
 
 ---
 
