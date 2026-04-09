@@ -1,11 +1,33 @@
 # 📚 3E-etec-cronogramaescolar
 
+## Nome dos Integrantes
+1 - 
+2 - 
+3 - 
+
 ## Sobre o projeto
-Este projeto consiste em um painel digital desenvolvido para organizar o cronograma escolar, incluindo horários de aulas e eventos importantes.
+Este projeto consiste em um painel digital desenvolvido para organizar o cronograma escolar, incluindo horários de aulas e eventos importantes os alunos.
+
+## Objetvo
 
 O objetivo é facilitar a visualização da rotina escolar, ajudando alunos e professores a acompanharem suas atividades de forma prática e organizada.
+ 
+ 1 - Mapa semanal de aulas; (PM ,SEDUC, ETEC)
+
+ 2 - Atividades - Eventos (Palestras, Passeios, Jogos ...)
+
+ 3 - Provas ()
+
+ 4 - Avisos Avulsos (Intervalo)
+
+ 5 - Disponibilidade de equipamentos (Chromebooks, Notebooks, Laboratório)
+
+ 6 - Outras atividades (conect com DEUS, jogos)
+
+ 7 - Disponibilidade Professores
 
 ---
+
 
 ## Funcionalidades
 -  Visualização do cronograma de aulas
